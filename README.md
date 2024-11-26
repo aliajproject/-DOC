@@ -1,6 +1,9 @@
 Sualların Cavabları
 1. Kompüter qrafikası. Rastr, vektor və fraktal qrafika haqqında.
-```Rastr qrafikası: Piksellərdən ibarətdir və miqyaslandıqda keyfiyyət itirir. Məsələn, JPEG, PNG.```
+   
+```
+Rastr qrafikası: Piksellərdən ibarətdir və miqyaslandıqda keyfiyyət itirir. Məsələn, JPEG, PNG.
+```
 - ```Vektor qrafikası: Xətlər və formullarla təyin olunur, miqyaslandıqda keyfiyyət dəyişmir. Məsələn, SVG, AI.```
 - ```Fraktal qrafika: Riyazi tənliklər əsasında yaradılır, təkrarlanan naxışlardan ibarətdir.```
 2. AutoCAD proqramının interfeysi.
