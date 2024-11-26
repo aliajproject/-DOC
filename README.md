@@ -3,9 +3,9 @@ Sualların Cavabları
    
 ```
 Rastr qrafikası: Piksellərdən ibarətdir və miqyaslandıqda keyfiyyət itirir. Məsələn, JPEG, PNG.
+Vektor qrafikası: Xətlər və formullarla təyin olunur, miqyaslandıqda keyfiyyət dəyişmir. Məsələn, SVG, AI.
+Fraktal qrafika: Riyazi tənliklər əsasında yaradılır, təkrarlanan naxışlardan ibarətdir.
 ```
-- ```Vektor qrafikası: Xətlər və formullarla təyin olunur, miqyaslandıqda keyfiyyət dəyişmir. Məsələn, SVG, AI.```
-- ```Fraktal qrafika: Riyazi tənliklər əsasında yaradılır, təkrarlanan naxışlardan ibarətdir.```
 2. AutoCAD proqramının interfeysi.
 - ```AutoCAD interfeysi menyu paneli, alətlər zolağı, vəziyyət çubuğu, çəkiliş sahəsi və komanda satırından ibarətdir. Bu elementlər istifadəçiyə müxtəlif əmrləri yerinə yetirməyə imkan yaradır.```
 3. AutoCAD proqramında 2D cizgilərin çəkilməsində istifadə edilən koordinat sistemi. Mütləq və nisbi koordinatlar.
